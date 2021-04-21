@@ -1,4 +1,0 @@
-success=True
-deck_id=9jc5580zfii1
-remaining=52
-shuffled=False
